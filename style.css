@@ -1,7 +1,12 @@
 body{
+    height: 100vh;
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: aquamarine;
+    background-color: #666;
+}
+
+p{
+    font-size: 30px;
+    color: #fafafa
 }
