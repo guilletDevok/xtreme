@@ -8,7 +8,8 @@ body{
 
 p{
     font-size: 30px;
-    color: #fafafa
+    color: #fafafa;
+    padding: 50px;
 }
 
 img{
