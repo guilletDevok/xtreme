@@ -1,2 +1,2 @@
-var peter = 'mi mina es la mica nu';
+var peter = 'mi mina es la colo';
 console.log (peter);
