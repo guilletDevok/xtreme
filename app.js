@@ -1,4 +1,4 @@
 var peter = 'a tu p..';
-let colo = 'la colo se enamoro de mi'
-let g = 'soy un picante'
+let colo = 'la colo me pide'
+let g = 'sos un gay'
 console.log (peter);
